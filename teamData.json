@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "homeTeam": "Whakatane_Logo",
+    "awayTeam": "Aquinas_Logo",
+    "homeScore": 2,
+    "awayScore": 0
+  },
+  {
+    "id": 2,
+    "homeTeam": "KatiKati_Logo",
+    "awayTeam": "TePuke_Logo",
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  {
+    "id": 3,
+    "homeTeam": "TePuke_Logo",
+    "awayTeam": "Aquinas_Logo",
+    "homeScore": 8,
+    "awayScore": 0
+  },
+  {
+    "id": 4,
+    "homeTeam": "Whakatane_Logo",
+    "awayTeam": "KatiKati_Logo",
+    "homeScore": 1,
+    "awayScore": 0
+  },
+  {
+    "id": 5,
+    "homeTeam": "Whakatane_Logo",
+    "awayTeam": "Aquinas_Logo",
+    "homeScore": 3,
+    "awayScore": 1
+  },
+  {
+    "id": 6,
+    "homeTeam": "KatiKati_Logo",
+    "awayTeam": "Tauranga_Logo",
+    "homeScore": 0,
+    "awayScore": 9
+  }
+]
